@@ -5,11 +5,10 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual minha data de aniversari?");
-    var respostaTime=prompt("Qual meu signo");
-    var respostaTime=prompt("Qual é meu time ?);
+    var respostaTime = prompt("QUAL SÃO OS NOMES DOS PERSONAGENS?");
     
-    if (respostaTime.toLowerCase() === "24/05)"{
+    
+    if (respostaTime.toLowerCase() === ("roberta,diego"){
       alert("Isso mesmo! O Athlético PR é o melhor time!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
