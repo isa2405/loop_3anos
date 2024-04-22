@@ -9,8 +9,8 @@ function verificarTime() {
     var respostaTime = prompt("onde foi filmado rbd")
 
 
-    if (respostaTime.toLowerCase() === ("roberta,diego"){
-      alert("Isso mesmo! O Athlético PR é o melhor time!");
+    if (respostaTime.toLowerCase() === ("roberta,diego,mia,miguel,lupita e giovane){
+      alert("Isso mesmo!ESSES SÃO OS PERSONAGENS DE RBD!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");
