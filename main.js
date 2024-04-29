@@ -8,9 +8,9 @@ function verificarTime() {
     var respostaTime = prompt("QUAL SÃO OS NOMES DOS PERSONAGENS?");
 
 
-    if (respostaTime.toLowerCase() === "roberta,diego,mia,miguel,lupita e giovane"{
-      alert("Isso mesmo!ESSES SÃO OS PERSONAGENS DE RBD!");
-      continuarPerguntando = false; // Sai do loop após a resposta correta
+    if (respostaTime.toLowerCase() === "roberta,diego,mia,miguel,lupita e giovane" {
+     alert("Isso mesmo!ESSES SÃO OS PERSONAGENS DE RBD!");
+     continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");
     
